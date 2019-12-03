@@ -1,0 +1,13 @@
+h3 {
+    color: blue;
+    text-align: center;
+}
+
+.equip {
+    border: dotted 5px black;
+    margin-right: 1.5rem;
+}
+
+li {
+    padding: 1.5rem;
+}
